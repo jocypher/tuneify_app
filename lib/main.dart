@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Tuneify',
       debugShowCheckedModeBanner: false,
-      
       home: const NavBar(),
     );
   }
